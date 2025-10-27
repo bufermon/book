@@ -1,0 +1,160 @@
+App Name: Casino Quest Book
+Domain: casinoquestbook.games
+Developer: Leona Drummond
+Email: leonadrum2@hotmail.com
+
+Logo: /images/logo.png
+Download CTA link: https://example.com/ (open in new tab)
+
+Tech Stack:
+Static HTML + Tailwind CSS (local build, no CDN) + Vanilla JS.
+Tailwind must be compiled locally to /assets/css/tailwind.css.
+Website must be fully responsive, mobile-optimized, and include a burger menu for small screens.
+
+📁 Required Pages (modern URLs, no .html)
+
+/ – Home
+
+/about – About the App
+
+/contact – Contact Form (mailto:leonadrum2@hotmail.com)
+
+/privacy-policy
+
+/terms
+
+/eula
+
+/analytics.php – blank page (not linked anywhere)
+
+/sitemap
+Also include robots.txt and sitemap.xml.
+
+🏰 Visual Direction (based on app screens)
+
+Use a dark adventure–casino style with mystical lighting and a treasure quest mood.
+The theme mixes casino gold glow, Indiana Jones ambiance, and royal UI design.
+
+Color Palette:
+
+Deep Purple #1B0C26 (background)
+
+Warm Gold #FFD66B (text highlights)
+
+Emerald Green #13B263 (action buttons)
+
+Burnt Amber #CC7A26 (borders)
+
+Shadow Black #0E0711 (cards & overlays)
+
+Accent Glow: soft inner shadows and orange-golden glows
+
+Typography:
+Use bold serif headlines (adventure-style) and readable sans-serif for body text.
+Example: “Playfair Display” or “Cinzel” (locally embedded).
+
+Design Elements:
+
+Glowing card panels with gold borders
+
+Buttons with emerald gradient and inner glow (hover: pulsating light)
+
+Floating spark effects around CTAs
+
+Subtle parallax for background images
+
+Text headers with cinematic drop shadows
+
+Navbar: semi-transparent dark with golden highlights, collapses into burger icon on mobile
+
+🖼️ Image Assets (to be used creatively throughout)
+
+Use these in hero sections, galleries, or feature icons:
+
+/images/on/off.png
+/images/account-1.png
+/images/account-2.png
+/images/account-3.png
+/images/account-4.png
+/images/home.png
+/images/icon-white.png
+/images/icon.png
+/images/main-button.png
+/images/notifications.png
+/images/onboarding-1.png
+/images/onboarding-2.png
+/images/onboarding-3.png
+/images/profile-1.png
+/images/profile-2.png
+/images/profile-3.png
+/images/quiz-11.png
+/images/quiz-12.png
+/images/quiz-13.png
+/images/quiz-14.png
+/images/quiz-select.png
+/images/settings.png
+/images/shop-1.png
+/images/shop-2.png
+/images/shop-3.png
+/images/shop-4.png
+/images/shop-5.png
+/images/shop-6.png
+/images/shop-7.png
+/images/shop-8.png
+/images/spin-1.png
+/images/spin-15.png
+/images/spin-16.png
+/images/spin-17.png
+/images/spin-18.png
+/images/spin-19.png
+/images/spin-20.png
+/images/splash.png
+/images/support-1.png
+/images/support-2.png
+
+🧭 Homepage Structure
+
+Hero Section:
+
+Background: /images/splash.png
+
+Title: “Embark on Your Casino Adventure”
+
+Subtitle: “Test your luck, skill, and knowledge in a world of games and quests.”
+
+CTA: “Download Now” (emerald glow button)
+
+Floating icons: cards, roulette wheel, coins (subtle movement via JS)
+
+Features Section:
+3 glowing cards with icons from /images/spin-15.png, /images/quiz-13.png, /images/profile-1.png
+Titles:
+
+“Play & Learn”
+
+“Unlock Stories”
+
+“Collect Rewards”
+
+Gameplay Showcase:
+Image carousel (JS) using /images/onboarding-1.png → /images/onboarding-3.png
+
+About Section:
+Short paragraph on the quest-based trivia experience with thematic character illustration (/images/profile-1.png).
+
+FAQ & Contact CTA:
+Dark card accordion for FAQs, then a gold-highlighted “Contact Us” button.
+
+Footer:
+Minimal black background, golden accent dividers, and page links.
+Text: “© Leona Drummond. All Rights Reserved.”
+
+⚖️ Legal Pages
+
+Use provided Terms/Privacy templates; replace placeholders with:
+
+[app name] → Casino Quest Book
+
+[developer name] → Leona Drummond
+
+[email] → leonadrum2@hotmail.com
